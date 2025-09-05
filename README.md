@@ -73,7 +73,4 @@ This project is open-source and available under the **MIT License**.
 ## Author
 git-hub: [github.com/abelbajeh]
 contact: [chidejohn63@gmail.com]
-
-
-## Author
-Developed by [Your Name].
+Developed by [Bajeh Abel Ojochide].
